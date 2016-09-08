@@ -22,7 +22,7 @@
     </dependency>
   </dependencies>
   <scm>
-    <developerConnection>scm:git:github.com:kekekevin/ubiquitous-lamp.git</developerConnection>
+    <developerConnection>scm:git:git@github.com:kekekevin/ubiquitous-lamp.git</developerConnection>
     <tag>maven-1.0.0</tag>
   </scm>
   <build>
